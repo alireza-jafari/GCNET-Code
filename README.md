@@ -9,3 +9,11 @@ Dataset of paper is [here](https://github.com/alireza-jafari/GCNET-Dataset) (GCN
 
 Notice: The article is under review in a journal and we are not allowed to publish the article code yet due to the journal guideline (19 Feb 2022).
 It will be updated.
+
+### BibTeX
+@article{jafari2022gcnet,<br/>
+ title={GCNET: graph-based prediction of stock price movement using graph convolutional network},<br/>
+ author={Jafari, Alireza and Haratizadeh, Saman},<br/>
+ journal={arXiv preprint arXiv:2203.11091},<br/>
+ year={2022}<br/>
+ }
